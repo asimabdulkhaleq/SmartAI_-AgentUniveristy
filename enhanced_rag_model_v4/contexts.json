@@ -1,0 +1,2368 @@
+[
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 0
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 1
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 2
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 3
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 4
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 5
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 6
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 7
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 8
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 9
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 10
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 11
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 12
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 13
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 14
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 15
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 16
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 17
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 18
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 19
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 20
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 21
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 22
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 23
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 24
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 25
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 26
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 27
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 28
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 29
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 30
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 31
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 32
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 33
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 34
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 35
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 36
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 37
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 38
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 39
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 40
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 41
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 42
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 43
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 44
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 45
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 46
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 47
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 48
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 49
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 50
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 51
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 52
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 53
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 54
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 55
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 56
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 57
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 58
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 59
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 60
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 61
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 62
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 63
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 64
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 65
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 66
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 67
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 68
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 69
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 70
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 71
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 72
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 73
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 74
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 75
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 76
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 77
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 78
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 79
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 80
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 81
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 82
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 83
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 84
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 85
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 86
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 87
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 88
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 89
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 90
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 91
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 92
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 93
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 94
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 95
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 96
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 97
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 98
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 99
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 100
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 101
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 102
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 103
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 104
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 105
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 106
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 107
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 108
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 109
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 110
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 111
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 112
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 113
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 114
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 115
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 116
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 117
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 118
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 119
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 120
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 121
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 122
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 123
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 124
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 125
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 126
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 127
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 128
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 129
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 130
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 131
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 132
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 133
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 134
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 135
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 136
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 137
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 138
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 139
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 140
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 141
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 142
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 143
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 144
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 145
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 146
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 147
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 148
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 149
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 150
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 151
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 152
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 153
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 154
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 155
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 156
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 157
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 158
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 159
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 160
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 161
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 162
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 163
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 164
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 165
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 166
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 167
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 168
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 169
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 170
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 171
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 172
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 173
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 174
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 175
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 176
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 177
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 178
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 179
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 180
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 181
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 182
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 183
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 184
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 185
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 186
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 187
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 188
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 189
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 190
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 191
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 192
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 193
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 194
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 195
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 196
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 197
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 198
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 199
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 200
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 201
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 202
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 203
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 204
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 205
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 206
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 207
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 208
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 209
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 210
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 211
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 212
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 213
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 214
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 215
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 216
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 217
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 218
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 219
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 220
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 221
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 222
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 223
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 224
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 225
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 226
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 227
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 228
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 229
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 230
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 231
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 232
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 233
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 234
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 235
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 236
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 237
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 238
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 239
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 240
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 241
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 242
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 243
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 244
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 245
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 246
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 247
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 248
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 249
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 250
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 251
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 252
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 253
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 254
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 255
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 256
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 257
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 258
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 259
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 260
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 261
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 262
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 263
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 264
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 265
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 266
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 267
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 268
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 269
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 270
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 271
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 272
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 273
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 274
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 275
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 276
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 277
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 278
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 279
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 280
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 281
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 282
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 283
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 284
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 285
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 286
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 287
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 288
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 289
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 290
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 291
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 292
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 293
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 294
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 295
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 296
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 297
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 298
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 299
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 300
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 301
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 302
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 303
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 304
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 305
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 306
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 307
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 308
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 309
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 310
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 311
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 312
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 313
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 314
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 315
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 316
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 317
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 318
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 319
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 320
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 321
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 322
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 323
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 324
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 325
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 326
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 327
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 328
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 329
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 330
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 331
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 332
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 333
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 334
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 335
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 336
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 337
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 338
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 339
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 340
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 341
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 342
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 343
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 344
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 345
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 346
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 347
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 348
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 349
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 350
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 351
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 352
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 353
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 354
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 355
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 356
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 357
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 358
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 359
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 360
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 361
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 362
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 363
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 364
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 365
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 366
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 367
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 368
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 369
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 370
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 371
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 372
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 373
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 374
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 375
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 376
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 377
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 378
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 379
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 380
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 381
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 382
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 383
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 384
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 385
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 386
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 387
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 388
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 389
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 390
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 391
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 392
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 393
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 394
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 395
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 396
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 397
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 398
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 399
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 400
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 401
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 402
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 403
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 404
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 405
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 406
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 407
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 408
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 409
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 410
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 411
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 412
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 413
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 414
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 415
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 416
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 417
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 418
+  },
+  {
+    "file": "./nauss_splits/train_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 419
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 0
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 1
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 2
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 3
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 4
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 5
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 6
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 7
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 8
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 9
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 10
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 11
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 12
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 13
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 14
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 15
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 16
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 17
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 18
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 19
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 20
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 21
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 22
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 23
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 24
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 25
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 26
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 27
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 28
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 29
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 30
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 31
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 32
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 33
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 34
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 35
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 36
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 37
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 38
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 39
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 40
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 41
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 42
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 43
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 44
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 45
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 46
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 47
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 48
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 49
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 50
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 51
+  },
+  {
+    "file": "./nauss_splits/val_squad.json",
+    "title": "Naif_Arab_University_QA",
+    "paragraph_idx": 52
+  }
+ 
+]
